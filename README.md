@@ -1,0 +1,1 @@
+# techtogether_2026-sztaki
