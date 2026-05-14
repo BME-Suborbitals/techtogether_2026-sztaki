@@ -1,6 +1,6 @@
 # techtogether_2026-sztaki
 
-This repository includes a real-time demo script at `real_time_2.py`. The script runs a MuJoCo simulation in real-time. The simulation is based on the Unitree Go1 robot, which follows the movement of the user real-time through the camera.
+This repository includes a real-time demo script at `real_time.py`. The script runs a MuJoCo simulation in real-time. The simulation is based on the Unitree Go1 robot, which follows the movement of the user real-time through the camera.
 
 The steps below focus on launching that script inside a Python virtual environment.
 
